@@ -88,8 +88,8 @@ Both models are evaluated for performance, and the results are visualized using 
 
 | Model               | Accuracy  |
 |---------------------|-----------|
-| Logistic Regression | ~76%      |
-| Random Forest       | ~82%+     |
+| Logistic Regression | ~75%+     |
+| Random Forest       | ~74%+     |
 
 Both models show good performance, with Random Forest slightly outperforming Logistic Regression.
 
